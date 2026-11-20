@@ -25,15 +25,20 @@ This project provides a graphical interface for managing student information, su
 - Data visualization
 
 ## Project Structure
+screenshot of project 
+.gitignore
+main.py
+README
+requirements
+student analysis
 
-Add your actual project folder structure here.
 
 ## Installation and Setup
 
 1. Clone this repository.
 2. Install the required Python dependencies using `pip install -r requirements.txt`.
 3. Configure your local MySQL database.
-4. Execute the database schema provided in `schema.sql`.
+4. Execute the database schema provided in `student analysis.sql`.
 5. Configure your database connection using local environment variables.
 6. Run the application's main Python file.
 
